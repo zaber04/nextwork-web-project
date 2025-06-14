@@ -134,3 +134,8 @@ dist
 .yarn/build-state.yml
 .yarn/install-state.gz
 .pnp.*
+
+
+# selected files
+aws-devops-vscode/commands.txt
+aws-devops-vscode/nextwork-keypair.pem
